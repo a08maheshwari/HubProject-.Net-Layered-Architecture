@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>RemoveRegionCodeRefactoring</id>
+    <version>1.0.6043.26826</version>
+    <title>RemoveRegion Code Refactoring</title>
+    <authors>Francesco Bonacci</authors>
+    <owners>Francesco Bonacci</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A Code Refactoring developed using the .NET Compiler Platform ("Roslyn").
+
+It allows users to remove C# region blocks without seeking the end of the region.
+
+To trigger the refactoring:
+1) Position the text cursor on the   
+   directive #region
+2) Click the Light Bulb or press CTRL + .
+3) Select the option "Remove region" (The 
+   dialog with a preview should now be 
+   visibile)
+4) Click or Press Enter</description>
+    <summary>A Code Refactoring developed using the .NET Compiler Platform ("Roslyn").
+
+It allows users to remove C# region blocks without seeking the end of the region.
+
+To trigger the refactoring:
+1) Position the text cursor on the   
+   directive #region
+2) Click the Light Bulb or press CTRL + .
+3) Select the option "Remove region" (The 
+   dialog with a preview should now be 
+   visibile)
+4) Click or Press Enter</summary>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright © 2016 Francesco Bonacci</copyright>
+    <tags>RemoveRegionCodeRefactoring code refactoring region region remover remove endregion #region #endregion c#</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

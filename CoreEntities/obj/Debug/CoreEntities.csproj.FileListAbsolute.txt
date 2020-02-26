@@ -1,0 +1,66 @@
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+G:\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\bin\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\CoreEntities\obj\Debug\CoreEntities.csprojResolveAssemblyReference.cache

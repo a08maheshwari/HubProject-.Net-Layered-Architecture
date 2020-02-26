@@ -1,0 +1,298 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META SECTION -->
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- END META SECTION -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          rel="stylesheet">
+</head>
+<style type="text/css">
+    #locations {
+        border: 1px solid black;
+        height:46px;
+    }
+    #searchbtn {
+        margin-top: -17px;
+    }
+</style>
+<body>
+
+    <!-- START PAGE CONTAINER -->
+    <div class="page-container">
+
+        <!-- START PAGE SIDEBAR -->
+        <div class="page-sidebar">
+
+            <!-- START X-NAVIGATION -->
+            <ul class="x-navigation">
+                <li class="xn-logo">
+                    <a ui-sref="index">Skilled Hub</a>
+                    <a class="x-navigation-control"></a>
+                </li>
+                <li class="xn-profile">
+                    <a href="" class="profile-mini">
+                        <img src="" alt="image logo" />
+                    </a>
+                    <div class="profile" style="height:207px">
+                        <div class="profile-image" style="height: 128px" ng-show="ROLE == 'Customer'" ng-controller="customerProfileController">
+                            <img ng-src="{{customer.CustomerImage}}" alt="Profile Image" height="128px" />
+                        </div>
+                        <div class="profile-image" style="height: 128px" ng-show="ROLE == 'Professional'" ng-controller="professionalController">
+                            <img ng-src="{{professional.ProfessionalImage}}" alt="Profile Image" height="128px" />
+                        </div>
+                        <div class="profile-data">
+                            <div class="profile-data-name">{{authentication.userName}}</div>
+                            <div class="profile-data-title">{{ROLE}}</div>
+                        </div>
+                        <div class="profile-controls">
+                            <a ui-sref="customer_messages" ng-if="ROLE == 'Customer'" class="profile-control-right"><span class="fa fa-envelope"></span></a>
+                            <a ui-sref="professional_messages" ng-if="ROLE == 'Professional'" class="profile-control-right"><span class="fa fa-envelope"></span></a>
+                        </div>
+                    </div>
+                </li>
+
+                <!-- CUSTOMER LINKS -->
+                <li><a ui-sref="customer_calendar" ng-if="ROLE == 'Customer'"><span class="fa fa-calendar"></span> Appointments</a></li>
+                <li><a ui-sref="customer_messages" ng-if="ROLE == 'Customer'"><span class="fa fa-comments"></span> Messages</a></li>
+                <li><a ui-sref="customer_payments" ng-if="ROLE == 'Customer'"><span class="fa fa-credit-card"></span> Payments</a></li>
+                <li><a ui-sref="customer_profile" ng-if="ROLE == 'Customer'"><span class="fa fa-user"></span> Profile</a></li>
+                <li><a ui-sref="customer_reports" ng-if="ROLE == 'Customer'"><span class="fa fa-book"></span> Reports</a></li>
+
+                <!-- PROFESSIONAL LINKS -->
+               
+                <li><a ui-sref="professional_calendar" ng-if="ROLE == 'Professional'"><span class="fa fa-calendar"></span> Appointments</a></li>
+                <li><a ui-sref="professional_payment" ng-if="ROLE == 'Professional'"><span class="fa fa-credit-card"></span> Payments</a></li>
+                <li><a ui-sref="professional_profile" ng-if="ROLE == 'Professional'"><span class="fa fa-user"></span> Profile</a></li>
+                <li><a ui-sref="professional_messages" ng-if="ROLE == 'Professional'"><span class="fa fa-comments"></span> Messages</a></li>
+                <li><a ui-sref="professional_reports" ng-if="ROLE == 'Professional'"><span class="fa fa-book"></span> Reports</a></li>
+                <li><a ui-sref="professional_businessHours" ng-if="ROLE == 'Professional'"><span class="fa fa-clock-o"></span> Working Hours</a></li>
+            </ul>
+            <!-- END X-NAVIGATION -->
+
+        </div>
+        <!-- END PAGE SIDEBAR -->
+
+        <!-- PAGE CONTENT -->
+        <div class="page-content">
+
+            <ul class="x-navigation x-navigation-horizontal x-navigation-panel">
+
+                <li data-ng-hide="!authentication.isAuth">
+                    <a>Welcome {{authentication.userName}}</a>
+                </li>
+
+                <!--<li data-ng-hide="!authentication.isAuth"><a href="" data-ng-click="logOut()">Logout</a></li>-->
+                <!-- SIGN OUT -->
+                <li class="xn-icon-button pull-right" data-ng-hide="!authentication.isAuth">
+                    <a href=" #" class="mb-control" data-ng-click="logOut()">
+                        <span class="fa fa-sign-out"></span>
+                    </a>
+                </li>
+                <!-- END SIGN OUT -->
+
+            </ul>
+
+            <!-- PAGE CONTENT -->
+            <div class="page-content-wrap" style="margin-top:10px;">
+
+                <!-- START WIDGETS -->
+                <div class="row">
+                    <!--Notification Panel-->
+
+                    <div class="col-md-8" ng-show="ROLE == 'Professional'">
+
+                        <md-card md-theme="{{ altTheme }}" md-theme-watch style="height: 106px;">
+                            <md-card-title>
+                                <md-card-title-text>
+                                    <span class="md-headline">Appointment Status</span>
+                                </md-card-title-text>
+                                <!--<md-card-title-media>
+                                    <div class="md-media-sm card-media" style="width:auto;">
+                                        <img src="img/icons/ic_check_circle.png" alt="Approved" />
+                                    </div>
+                                </md-card-title-media>-->
+                            </md-card-title>
+                            <md-card-actions>
+                                <md-card-icon-actions>
+
+                                    <div class="col-md-3">
+                                        Number Of Appointments
+                                        <md-icon md-font-icon="android" alt="android">assignment turned in</md-icon>
+                                        {{notify.count}}
+                                    </div>
+                                    <div class="col-md-3">
+                                        Accepted
+                                        <md-icon md-font-icon="android" alt="android">done all</md-icon>
+                                        {{notify.accepted}}
+                                    </div>
+                                    <div class="col-md-3">
+                                        Cancelled
+                                        <md-icon md-font-icon="android" alt="android">clear</md-icon>  &nbsp;
+                                        {{notify.cancelled}}
+                                    </div>
+                                    <div class="col-md-3">
+                                        Pending
+                                        <md-icon md-font-icon="android" alt="android">info</md-icon>
+                                        {{notify.pending}}
+                                    </div>
+
+                                    <!--<i class="material-icons md-light">assignment turned in</i>-->
+
+                                </md-card-icon-actions>
+                            </md-card-actions>
+                        </md-card>
+                    </div>
+
+
+
+
+                    <!-- SEARCHBAR -->
+                    <div class="col-md-8" ng-show="ROLE == 'Customer'">
+                        <form name="searchProfessionalForm" ng-show="$state.is('search_Professional')" ng-controller="searchController">
+                            
+                            <div class="row">
+                                <div layout="column" layout-align="center center" ng-cloak>
+                                    <div layout="column" layout-align="center center">
+                                        <md-select placeholder="Need Help?" ng-model="search.ProfessionName" md-on-open="getProfessions()" style="min-width: 200px;">
+                                            <md-option ng-value="pro.JobName" ng-repeat="pro in ProfessionList">{{pro.JobName}}</md-option>
+                                        </md-select>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8" style=" margin-left: -10px;">
+                                    <div class="controls">
+                                        <input type="text" id="locations" vs-google-autocomplete ng-model="search.locations" name="locations" placeholder="Enter Location" class="form-control input-lg locationautocomplete">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="pull-right">
+                                        <md-input-container class="md-block" style="margin-top:0px;">
+                                            <md-button class="md-raised md-primary btn-block" ng-click="searchfun(search)" style=" color: #000000; background-color: #666666; border-color: #666666; ">Search</md-button>
+                                        </md-input-container>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </form>
+
+                        <form name="searchProfessionalForm" ng-hide="$state.is('search_Professional')">
+                            <div class="row">
+
+                                <div layout="column" layout-align="center center" ng-cloak>
+                                    <div layout="column" layout-align="center center" class="col-xs-12">
+                                        <md-select placeholder="Assign to user" ng-model="search.ProfessionName" md-on-open="getProfessions()" style="min-width: 200px;">
+                                            <md-option ng-value="pro.JobName" ng-repeat="pro in ProfessionList">{{pro.JobName}}</md-option>
+                                        </md-select>
+                                        <!--<p class="md-caption">You have assigned the task to: {{ user ? user.name : 'No one yet' }}</p>-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-xs-8" style=" margin-left: -10px;">
+                                    <div class="controls">
+                                        <input type="text" id="locations" vs-google-autocomplete ng-model="search.locations" name="locations" placeholder="Enter Location" class="form-control input-xlarge">
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-xs-4">
+                                    <div class="pull-right" id="searchbtn">
+                                        <md-input-container class="md-block">
+                                            <md-button class="md-raised md-primary btn-block" ng-click="searchProfessional(search)" style=" color: #000000; background-color: #666666; border-color: #666666; ">Search</md-button>
+                                        </md-input-container>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- END SEARCHBAR -->
+
+                    <!-- START WIDGET CLOCK -->
+                    <div class="col-md-4 col-xs-12 pull-right">
+                        <div class="widget widget-info widget-padding-sm" ng-controller="timeController">
+                            <div class="widget-big-int col-md-12" style="font-size:28px;">
+                                <span my-current-time="format"></span>
+                            </div>
+
+                            <div class="widget-buttons widget-c3">
+                                <div class="col">
+                                    <a ng-click="formatchange( myval = !myval)"><span class="fa fa-clock-o"></span></a>
+                                </div>
+                                <div class="col pull-right">
+                                    <a ui-sref="customer_calendar" ng-if="ROLE == 'Customer'"><span class="fa fa-calendar"></span></a>
+                                    <a ui-sref="" ng-if="ROLE == 'Professional'"><span class="fa fa-calendar"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <!-- END WIDGET CLOCK -->
+
+                </div>
+                <!-- END WIDGETS -->
+
+            </div>
+
+            <div ui-view>
+                <!-- here goes page content -->
+            </div>
+            <!-- END PAGE CONTENT -->
+
+        </div>
+        <!-- END PAGE CONTENT -->
+
+    </div>
+    <!-- END PAGE CONTAINER -->
+
+    <!-- MESSAGE BOX-->
+    <div class="message-box animated fadeIn" id="mb-signout">
+        <div class="mb-container">
+            <div class="mb-middle">
+                <div class="mb-title"><span class="fa fa-sign-out"></span> Log <strong>Out</strong> ?</div>
+                <div class="mb-content">
+                    <p>Are you sure you want to log out?</p>
+                    <p>Press No if youwant to continue work. Press Yes to logout current user.</p>
+                </div>
+                <div class="mb-footer">
+                    <div class="pull-right">
+                        <a href="pages-login.html" class="btn btn-success btn-lg">Yes</a>
+                        <button class="btn btn-default btn-lg mb-control-close">No</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END MESSAGE BOX-->
+
+</body>
+</html>
+
+
+
+<!--<div class="widget widget-default widget-item-icon" onclick="location.href='pages-messages.html';">
+    <div class="widget-item-left">
+        <span class="fa fa-envelope"></span>
+    </div>
+    <div class="widget-data">
+        <div class="widget-int num-count">48</div>
+        <div class="widget-title">New messages</div>
+        <div class="widget-subtitle">In your mailbox</div>
+    </div>
+</div>
+
+
+
+<div class="col-md-4">
+    <div class="widget widget-default widget-item-icon" onclick="location.href='pages-address-book.html';">
+        <div class="widget-item-left">
+            <span class="fa fa-user"></span>
+        </div>
+        <div class="widget-data">
+            <div class="widget-int num-count">375</div>
+            <div class="widget-title">Registred users</div>
+            <div class="widget-subtitle">On your website</div>
+        </div>
+    </div>-->

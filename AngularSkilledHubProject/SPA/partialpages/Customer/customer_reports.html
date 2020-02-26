@@ -1,0 +1,32 @@
+﻿<md-toolbar class="md-table-toolbar md-default">
+    <div class="md-toolbar-tools">
+        <h2 style="color:black;"><span class="fa fa-book"></span> Reports</h2>
+    </div>
+</md-toolbar>
+
+<!-- exact table from live demo -->
+<md-table-container>
+    <table md-table ng-model="selected">
+        <thead md-head md-order="myOrder">
+            <tr md-row>
+                <th md-column md-order-by="CompanyName"><span>Company Name</span></th>
+                <th md-column md-numeric md-order-by="AppointmentDate"><span>Appointment Date</span></th>
+                <th md-column md-order-by="TotalHours">Hours Worked (Hours)</th>
+                <th md-column>Total Amount ($)</th>
+                <th md-column>Payment Status</th>
+            </tr>
+        </thead>
+        <tbody md-body>
+            <tr md-row md-select="dessert" md-select-id="name" md-auto-select ng-repeat="report in reports| orderBy: myOrder">
+                <td md-cell>{{report.CompanyName}}</td>
+                <td md-cell>{{report.AppointmentDate}}</td>
+                <td md-cell>{{report.TotalHours}}</td>
+                <td md-cell>${{report.TotAmount | number: 2}}</td>
+                <td md-cell>{{report.PaymentStatus}}</td>
+            </tr>
+        </tbody>
+    </table>
+</md-table-container>
+
+<md-table-pagination md-limit="2" md-limit-options="[3, 5, 10]" md-page="query.page" md-total="{{reports.count}}" md-on-paginate="reports" md-page-select></md-table-pagination>
+

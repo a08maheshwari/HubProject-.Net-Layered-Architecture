@@ -1,0 +1,123 @@
+﻿<div class="content-frame">
+
+    <div class="content-frame-top">
+        <div class="page-title">
+            <h2 style="color:black;"><span class="fa fa-user"></span>  Your Professional</h2>
+        </div>
+    </div>
+    <div class="page-title" style="background: #fafafa url(http://subtlepatterns.com/patterns/geometry2.png);">
+        <div class="container" style=" position: absolute;">
+
+            <div ng-controller="searchController as appCtrl" ng-cloak>
+                <md-content layout-padding>
+                    <md-grid-list md-cols-gt-md="12" md-cols="3" md-cols-md="8"
+                                  md-row-height-gt-md="1:1" md-row-height="4:3"
+                                  md-gutter-gt-md="16px" md-gutter-md="8px" md-gutter="4px">
+                        <md-grid-tile ng-repeat="tile in appCtrl.colorTiles"
+                                      ng-style="{'background': tile.color}"
+                                      md-colspan-gt-sm="{{tile.colspan}}"
+                                      md-rowspan-gt-sm="{{tile.rowspan}}">
+                        </md-grid-tile>
+                    </md-grid-list>
+                </md-content>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+
+            <div flex-xs flex-gt-xs="100" layout="column">
+
+                <md-card md-theme="altTheme" md-theme-watch>
+                    <md-card-title>
+                        <md-card-title-text>
+                            <span class="md-headline">Professional Information</span>
+                            <span class="md-subhead">{{prodetails.ProfessionalName}}</span>
+                            <span class="md-subhead">{{prodetails.CompanyName}}</span>
+                            <span class="md-subhead">{{(prodetails.ProfessionalWrkExp<=1)?'Yr':'Yrs'}}</span>
+                        </md-card-title-text>
+                        <md-card-title-media>
+                            <div class="md-media-lg card-media">
+                                <img ng-src="{{prodetails.ProfessionalImage}}" class="md-card-image" alt="professional_image">
+                            </div>
+                        </md-card-title-media>
+                    </md-card-title>
+                </md-card>
+
+                <md-card md-theme="dark-grey" md-theme-watch>
+                    <div flex>
+                        <md-card-title>
+                            <md-card-title-text>
+                                <md-card-text> <span class="md-headline">Business Hours</span></md-card-text>
+
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.MonClosed"><label>Monday</label>{{prodetails.BusinessHours.MonStartTime}} <span class="glyphicon glyphicon-minus"></span> {{prodetails.BusinessHours.MonEndTime}}</span><br />
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.TueClosed"><label>Tuesday</label>{{prodetails.BusinessHours.TueStartTime}} <span class="glyphicon glyphicon-minus"></span>{{prodetails.BusinessHours.TueEndTime}}</span><br />
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.WedClosed"><label>Wednesday</label>{{prodetails.BusinessHours.WedStartTime}} <span class="glyphicon glyphicon-minus"></span>{{prodetails.BusinessHours.WedEndTime}}</span><br />
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.ThuClosed"><label>Thursday</label>{{prodetails.BusinessHours.ThuStartTime}} <span class="glyphicon glyphicon-minus"></span>{{prodetails.BusinessHours.ThuEndTime}}</span><br />
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.FriClosed"><label>Friday</label>{{prodetails.BusinessHours.FriStartTime}} <span class="glyphicon glyphicon-minus"></span>{{prodetails.BusinessHours.FriEndTime}}</span><br />
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.SatClosed"><label>Saturday</label>{{prodetails.BusinessHours.SatStartTime}}<span class="glyphicon glyphicon-minus"></span> {{prodetails.BusinessHours.SatEndTime}}</span>
+                                <span class="md-subhead" ng-hide="prodetails.BusinessHours.SunClosed"><label>Sunday</label>{{prodetails.BusinessHours.SatStartTime}}<span class="glyphicon glyphicon-minus"></span> {{prodetails.BusinessHours.SunEndTime}}</span>
+
+                            </md-card-title-text>
+                        </md-card-title>
+                    </div>
+
+                    <div flex>
+                        <md-card-title>
+                            <md-card-title-text>
+                                <md-card-text> <span class="md-headline">Professional skills</span></md-card-text>
+
+                                <div ng-repeat="j in prodetails.JCategory">
+                                    <span class="md-subhead">
+                                        {{j.JobName}}
+                                    </span>
+                                </div>
+                            </md-card-title-text>
+                        </md-card-title>
+                    </div>
+                </md-card>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-4" style="margin-top: -120px;">
+            <div flex>
+                <!--I'm below on mobile, and to the right on larger devices.-->
+                <div class="card">
+                    <form id="contact" ng-controller="searchController">
+                        <h3>Book An Appointment</h3>
+
+                        <fieldset>
+                            <label>Date:</label>
+                            <md-datepicker ng-model="myDate" md-placeholder="Enter date"></md-datepicker>
+                        </fieldset>
+
+                        <fieldset>
+                            <label>Start Time:</label>
+                            <mdp-time-picker ng-model="appoint.StartingTime"></mdp-time-picker>
+                        </fieldset>
+
+                        <fieldset>
+                            <label>End Time:</label>
+                            <mdp-time-picker ng-model="appoint.EndingTime" is-open="popup.opened" ng-change="dateChange()"></mdp-time-picker>
+                        </fieldset>
+
+                        <fieldset>
+                            <label>Job Description</label>
+                            <textarea placeholder="Job description here...." tabindex="5" ng-model="appoint.description" required></textarea>
+                        </fieldset>
+
+                        <!--<button ng-click="add()">add</button>-->
+                        <fieldset>
+                            <md-button ng-click="saveappointment()" class="md-raised md-primary" style=" color: #000000; background-color: #666666; border-color: #666666">Fix Appointment</md-button>
+                        </fieldset>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>

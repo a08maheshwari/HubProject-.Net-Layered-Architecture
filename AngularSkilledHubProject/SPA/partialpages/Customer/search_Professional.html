@@ -1,0 +1,46 @@
+﻿<div class="content-frame">
+
+    <div class="content-frame-top">
+        <div class="page-title">
+            <h2 style="color:black;"><span class="fa fa-search"></span>  Matched Professionals</h2>
+        </div>
+    </div>
+
+    <div class="carddemoCardActionButtons">
+        <!-- SEARCHED PROFEESIONAL  -->
+        <md-content class="md-padding" layout-xs="column" layout="row">
+
+            <div flex-xs flex-gt-xs="50" layout="row" class="col-md-4">
+
+                <md-card md-theme="{{ showDarkTheme ? 'dark-grey' : 'default' }}" md-theme-watch ng-repeat="p in val">
+                    <md-card-title>
+                        <md-card-title-text style=" margin-right: 54px;">
+                            <span class="md-headline">{{p.ProfessionalName}}</span>
+                            <span class="md-subhead">{{p.ProfessionalWrkExp}} {{(p.ProfessionalWrkExp<=1)?'Yr':'Yrs'}} </span>
+                        </md-card-title-text>
+                        <md-card-title-media>
+                            <div class="md-media-lg card-media">
+                                <img ng-src="{{p.ProfessionalImage}}" class="md-card-image" alt="professional_image">
+                            </div>
+                        </md-card-title-media>
+                    </md-card-title>
+                    <md-card-content>
+                        <p style="word-wrap: break-word;">
+                            {{p.ProfessionalDescription}}
+                        </p>
+                    </md-card-content>
+                    <md-card-actions layout="row" layout-align="end center">
+                        <label>
+                            Fix Appointment<label>
+                                <md-button class="md-icon-button md-fab" aria-label="View" style="color: #ffffff; background-color: #DEDEDE; border-color: #DEDEDE; ">
+                                    <md-icon md-svg-src="img/icons/ic_eye.svg" ng-click=details(p)></md-icon>
+                                </md-button>
+                    </md-card-actions>
+                </md-card>
+            </div>
+
+        </md-content>
+
+    </div>
+
+</div>

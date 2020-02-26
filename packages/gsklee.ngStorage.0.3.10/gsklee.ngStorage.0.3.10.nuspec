@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>gsklee.ngStorage</id>
+    <version>0.3.10</version>
+    <title>Angular ngStorage</title>
+    <authors>gsklee</authors>
+    <owners>gsklee</owners>
+    <licenseUrl>https://github.com/gsklee/ngStorage/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/gsklee/ngStorage</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An AngularJS module that makes Web Storage working in the Angular Way. Contains two services: $localStorage and $sessionStorage.
+
+Differences with Other Implementations
+* No Getter 'n' Setter Bullshit
+* sessionStorage 
+* Cleanly-Authored Code
+* No Cookie Fallback</description>
+    <summary>localStorage and sessionStorage done right for AngularJS.</summary>
+    <releaseNotes>https://github.com/gsklee/ngStorage/blob/master/CHANGELOG.md</releaseNotes>
+    <copyright>https://github.com/gsklee/ngStorage/blob/master/LICENSE</copyright>
+    <language>en-US</language>
+    <tags>angular ngStorage localStorage sessionStorage</tags>
+  </metadata>
+</package>

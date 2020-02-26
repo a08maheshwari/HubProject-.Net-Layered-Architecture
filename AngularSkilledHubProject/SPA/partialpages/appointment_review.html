@@ -1,0 +1,121 @@
+﻿<md-dialog aria-label="Appointment" ng-cloak style="max-width: 50%">
+    <form>
+        <md-toolbar style="background-color: rgb(15, 100, 120);">
+            <div class="md-toolbar-tools">
+                <h2>View Appointment</h2>
+                <span flex></span>
+                <md-button class="md-icon-button">
+                    <md-icon class="fa fa-close" aria-label="Close dialog" ng-click="closeDialog()"></md-icon>
+                </md-button>
+            </div>
+        </md-toolbar>
+        <md-dialog-content>
+            <div class="md-dialog-content" style=" padding: 0px;">
+                <div class="content-frame">
+                    <md-tabs md-dynamic-height md-border-bottom>
+
+                        <!-- PROFESSIONAL DETAILS -->
+                        <md-tab label="Details" style="color: rgb(15, 100, 120);">
+                            <md-content class="md-padding" style=" padding: 0px;">
+                                <md-card>
+                                    <md-card-title>
+                                        <div class="row">
+                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                <md-card-title-media>
+                                                    <div class="md-media card-media">
+                                                        <img ng-show="ROLE =='Customer'" ng-src="{{appointmentReview.Customer.CustomerImage}}" class="md-card-image" alt="customer_image">
+                                                        <img ng-show="ROLE =='Professional'" ng-src="{{appointmentReview.Professional.ProfessionalImage}}" class="md-card-image" alt="professional_image">
+                                                    </div>
+                                                </md-card-title-media>
+                                            </div>
+                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                <!-- FOR PROFESSIONAL DETAILS -->
+                                                <md-card-title-text ng-show="ROLE == 'Customer'">
+                                                    <span class="md-headline" style="color: #0f6478;">Professional </span><br />
+                                                    <span class="md-subhead"><label>Name  </label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.Professional.ProfessionalName}}</span>
+                                                    <span class="md-subhead"><label>Company  </label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.Professional.CompanyName}}</span>
+                                                    <span class="md-subhead"><label>Contact  </label><span class="glyphicon glyphicon-minus"></span> {{appointmentReview.Professional.ProfessionalContact}}</span>
+                                                    <span class="md-subhead"><label>Work Experience  </label><span class="glyphicon glyphicon-minus"></span> {{appointmentReview.Professional.ProfessionalWrkExp}}Yrs</span>
+                                                </md-card-title-text>
+
+                                                <!-- FOR CUSTOMER DETAILS -->
+                                                <md-card-title-text ng-show="ROLE== 'Professional'">
+                                                    <span class="md-headline" style="color: #0f6478;">Customer</span><br />
+                                                    <span class="md-subhead"><label style="color:black;">Name</label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.Customer.CustomerFirstName}}{{appointmentReview.Customer.CustomerLastName}} </span>
+                                                    <span class="md-headline" style="color: #0f6478;">Address :</span><br />
+                                                    <span class="md-subhead"><label style="color:black;">Street </label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.Customer.CustomerStreet}}</span>
+                                                    <span class="md-subhead"><label style="color:black;">Locality </label><span class="glyphicon glyphicon-minus"></span> {{appointmentReview.Customer.CustomerLocality}}</span>
+                                                    <span class="md-subhead"> <label style="color:black;">Country  </label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.Customer.CustomerCountry}}</span>
+                                                    <span class="md-subhead"><label style="color:black;">Contact  </label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.Customer.CustomerContact}}</span>
+                                                </md-card-title-text>
+                                            </div>
+                                        </div>
+                                </md-card>
+                            </md-content>
+                        </md-tab>
+
+                        <!-- APPOINTMENT DETAILS -->
+                        <md-tab label="Appointment Details">
+                            <md-content class="md-padding" style="padding: 0px;">
+                                <md-card>
+                                        <md-card-title>
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <md-card-title-media>
+                                                        <div class="md-media card-media">
+                                                            <img ng-src="img/be-the-first-bg.jpg" class="md-card-image" alt="professional_image">
+                                                        </div>
+                                                    </md-card-title-media>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <md-card-title-text>
+                                                        <span class="md-headline" style="color: #0f6478;">Details</span><br />
+                                                        <span class="md-subhead"><label>Date</label><span class="glyphicon glyphicon-minus"></span>{{appointmentReview.AppointmentDate}}</span>
+                                                        <span class="md-subhead"><label>Starting Time </label><span class="glyphicon glyphicon-minus"></span> {{appointmentReview.StartingTime}}</span>
+                                                        <span class="md-subhead"><label>Ending Time </label><span class="glyphicon glyphicon-minus"></span> {{appointmentReview.EndingTime}}</span>
+                                                        <span class="md-subhead" ng-class="{'text-success': appointmentReview.status == 1, 'text-danger':appointmentReview.status == 2, 'text-warning': appointmentReview.status == 0}">
+                                                            <label>Status </label><span class="glyphiconglyphicon-minus"></span> {{appointmentReview.status}}
+                                                        </span>
+                                                    </md-card-title-text>
+                                                </div>
+                                            </div>
+                                        </md-card-title>
+                                        <md-card-actions layout="row" layout-align="end center"></md-card-actions>
+                                    </md-card>
+                            </md-content>
+                        </md-tab>
+
+                    </md-tabs>
+                </div>
+            </div>
+        </md-dialog-content>
+
+        <md-dialog-actions layout="row">
+            <span flex></span>
+
+            <!-- FOR ACCEPTED LABEL -->
+            <label ng-show="ROLE =='Customer' && ROLE =='Professional' && appointmentStatus == '1' ">
+                Approved
+            </label>
+            <!-- FOR PENDING LABEL -->
+            <label ng-show="ROLE =='Customer' && ROLE =='Professional' && appointmentStatus == '2' ">
+                Pending
+            </label>
+            <!-- FOR DECLINED LABEL -->
+            <label ng-show="ROLE =='Customer' && ROLE =='Professional' && appointmentStatus == '0' ">
+                Declined
+            </label>
+
+            <!-- ACCEPT BUTTON -->
+            <md-button ng-show="ROLE =='Professional'  && appointmentStatus == '2' " ng-click="accept()" style="color: #035810;">
+                Accept
+            </md-button>
+
+            <!-- DECLINE BUTTON -->
+            <md-button ng-show="ROLE =='Professional'  && appointmentStatus == '2' " ng-click="decline()" style="margin-right: 20px; color: #A80000;">
+                Decline
+            </md-button>
+
+        </md-dialog-actions>
+    </form>
+</md-dialog>

@@ -1,0 +1,201 @@
+﻿<style>
+    .selectdemoSelectHeader {
+    }
+        .selectdemoSelectHeader .demo-header-searchbox {
+            border: none;
+            outline: none;
+            height: 100%;
+            width: 100%;
+            padding: 0;
+        }
+        .selectdemoSelectHeader .demo-select-header {
+            box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.1), 0 0 0 0 rgba(0, 0, 0, 0.14), 0 0 0 0 rgba(0, 0, 0, 0.12);
+            padding-left: 10.667px;
+            height: 48px;
+            cursor: pointer;
+            position: relative;
+            display: flex;
+            align-items: center;
+            width: auto;
+        }
+        .selectdemoSelectHeader md-content._md {
+            max-height: 240px;
+        }
+
+</style>
+
+<div class="content-frame">
+
+    <div class="content-frame-top">
+        <div class="page-title">
+            <h2 style="color:black;"><span class="fa fa-user"></span> Profile</h2>
+        </div>
+    </div>
+    <div class="row">
+
+        <form name="professionalForm">
+            <div class="col-md-4 col-sm-4">
+                <div flex-sm="100" flex-gt-sm="90" flex-gt-md="75" flex-gt-lg="50" class="md-whiteframe-z2" style="max-width:100%; margin:0 auto;">
+                    <md-content layout-padding>
+
+                        <div class="row">
+                            <div class="col-md-8">
+                                <img class="img-thumbnail  img-responsive" ngf-alt="Profile Image" ngf-src="picFile" style="margin:0 auto" height="100" width="120" />
+                            </div>
+
+                            <div class="col-md-4">
+                                <md-button class="md-fab md-mini md-primary md-hue-2" aria-label="Profile" onclick="$('#file').click();">
+                                    <i class="fa fa-image"></i>
+                                    <md-tooltip>
+                                        Profile Picture
+                                    </md-tooltip>
+                                </md-button>
+                                <label> Upload Image</label>
+                            </div>
+
+                            <input style=" width: 0px;height: 0px;overflow: hidden;" id="file" type="file" ngf-select ng-model="picFile" name="file"
+                                   accept="image/*" required
+                                   ngf-model-invalid="errorFile">
+                        </div>
+                    </md-content>
+                </div>
+            </div>
+
+            <div class="col-md-8 col-sm-8">
+                <div flex-sm="100" flex-gt-sm="90" flex-gt-md="75" flex-gt-lg="50" class="md-whiteframe-z2" style="max-width: 100%">
+
+                    <!-- Customer Profile -->
+                    <md-content layout-padding>
+
+                        <!-- username -->
+                        <md-input-container class="md-block">
+                            <label>Name</label>
+                            <input required name="ProfessionalName" md-maxlength="25" maxlength="25" ng-model="professional.ProfessionalName" />
+                            <div class="hint">Tell us what we should call you!</div>
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalName.$error">
+                                <div ng-message="required">This is required.</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- CompanyName -->
+                        <md-input-container class="md-block">
+                            <label>Company Name</label>
+                            <input required name="CompanyName" md-maxlength="25" maxlength="25" ng-model="professional.CompanyName" />
+                            <div class="hint">Tell us where you work!</div>
+                            <div ng-messages="professionalForm.$dirty && professionalForm.CompanyName.$error">
+                                <div ng-message="required">This is required.</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- street -->
+                        <md-input-container class="md-block">
+                            <label>Street</label>
+                            <input id="route" name="ProfessionalStreet" md-maxlength="20" maxlength="20" ng-model="professional.ProfessionalStreet" /> <!--vs-google-autocomplete-->
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalStreet.$error">
+                                <div ng-message="required">This is required.</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- Locality -->
+                        <md-input-container class="md-block">
+                            <label>Locality</label>
+                            <input id="route" md-maxlength="15" name="ProfessionalLocality" maxlength="15" ng-model="professional.ProfessionalLocality" /> <!--vs-google-autocomplete-->
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalLocality.$error">
+                                <div ng-message="required">This is required.</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- PostalCode -->
+                        <md-input-container class="md-block">
+                            <label>Postal Code</label>
+                            <input id="locality" name="ProfessionalPostalCode" md-maxlength="6" ng-model=" professional.ProfessionalPostalCode" minlength="6" maxlength="6" ng-pattern="/^[0-9]{1,6}$/" />
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalPostalCode.$error">
+                                <div ng-message="required">This is required</div>
+                                <div ng-message="pattern">Invalid input</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- country -->
+                        <md-input-container class="md-block">
+                            <label>Country</label>
+                            <input required id="country" name="ProfessionalCountry" ng-model=" professional.ProfessionalCountry" /> <!--vs-google-autocomplete-->
+                            <div class="hint">From where you belong to!</div>
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalCountry.$error">
+                                <div ng-message="required">This is required</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- work experience -->
+                        <md-input-container class="md-block">
+                            <label>Work Experience (years)</label>
+                            <input required name="ProfessionalWrkExp" ng-model="professional.ProfessionalWrkExp" minlength="1" maxlength="2">
+                            <div class="hint">Tell us about your experience!</div>
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalWrkExp.$error">
+                                <div ng-message="required">This is required</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- contactno -->
+                        <md-input-container class="md-block">
+                            <label>Contact Number</label>
+                            <input required name="ProfessionalContact" md-maxlength="10" ng-model="professional.ProfessionalContact" minlength="10" maxlength="10" ng-pattern="/^[0-9]{10,10}$/">
+                            <div class="hint">Tell us how we can contact you!</div>
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalContact.$error">
+                                <div ng-message="required">This is required</div>
+                                <div ng-message="md-minlength">Contact No should have 10 digits</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- min working hour rate -->
+                        <md-input-container class="md-block">
+                            <label>Hourly Rate (Min)</label>
+                            <input required name="Min" ng-model="professional.Min" minlength="1" maxlength="3" ng-pattern="/^[0-9]{1,7}$/">
+                            <div ng-messages="professionalForm.$dirty && professionalForm.Min.$error">
+                                <div ng-message="required">This is required</div>
+                                <div ng-message="pattern">Invalid input</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- max working hour rate -->
+                        <md-input-container class="md-block">
+                            <label>Hourly Rate (Max)</label>
+                            <input required name="Max" ng-model="professional.Max" minlength="1" maxlength="3" ng-pattern="/^[0-9]{1,7}$/">
+                            <div ng-messages="professionalForm.$dirty && professionalForm.Max.$error">
+                                <div ng-message="required">This is required</div>
+                                <div ng-message="pattern">Invalid input</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- professional description -->
+                        <md-input-container class="md-block">
+                            <label>Professional Description</label>
+                            <input md-maxlength="100" required name="ProfessionalDescription" minlength="15" maxlength="100" ng-model="professional.ProfessionalDescription">
+                            <div class="hint">Tell us about yourself!</div>
+                            <div ng-messages="professionalForm.$dirty && professionalForm.ProfessionalDescription.$error">
+                                <div ng-message="required">This is required</div>
+                            </div>
+                        </md-input-container>
+
+                        <!-- Job Category -->
+                        <md-input-container class="md-block">
+                            <label>Job Category</label>
+                            <md-select ng-model="professional.JCategory" md-on-close="clearSearchTerm()" data-md-container-class="selectdemoSelectHeader" multiple>
+                                <md-optgroup label="Professions">
+                                    <md-option ng-value="pro" ng-repeat="pro in ProfessionList">{{pro.JobName}}</md-option>
+                                </md-optgroup>
+                            </md-select>
+                        </md-input-container>
+
+                        <!-- Button -->
+                        <md-input-container class="md-block">
+                            <md-button ng-disabled="professionalForm.$invalid" ng-hide="isProfessionalCreated" ng-click="createProfessional(picFile)" class="md-raised md-primary" style=" color: #000000; background-color: #666666; border-color: #666666;" type="submit">Create</md-button>
+                            <md-button ng-disabled="professionalForm.$invalid" ng-show="isProfessionalCreated" ng-click="updateProfessional(picFile)" class="md-raised md-primary" style=" color: #000000; background-color: #666666; border-color: #666666;" type="submit">Update</md-button>
+                        </md-input-container>
+
+                    </md-content>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>

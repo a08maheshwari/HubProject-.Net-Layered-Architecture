@@ -1,0 +1,1366 @@
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\mayankg\official\Projects\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\Official\Karm Yudh\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\29112016\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\29112016\maya\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject 30112016\AngularSkilledHubProject 30112016\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\todays\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\mayankg\official\PROJECT\SkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Atul Bisht\Desktop\changes\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+G:\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\DELL\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Kanchan Padiyar\Desktop\AngularSkilledHubProject (1)\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+D:\Day Users\Atul Bisht\SkilledHub\1312\1412\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\brazil\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Atul Bisht\Desktop\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Documents\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll.config
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\AngularSkilledHubProject.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Cors.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebActivatorEx.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\WebGrease.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\CoreEntities.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\RepositoryLayer.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\ServiceLayer.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Newtonsoft.Json.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Common.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.Owin.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Helpers.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Mvc.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Optimization.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.Razor.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.dll
+C:\Users\Mayank Gupta\Downloads\AngularSkilledHubProject\AngularSkilledHubProject\AngularSkilledHubProject\obj\Debug\AngularSkilledHubProject.pdb

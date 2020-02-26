@@ -1,0 +1,241 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Skilled Hub</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta property="og:title" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:description" content="">
+    <!-- Styles -->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Montserrat:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="logo" href="index.html"><img src="img/logo.svg" alt="Logo"></a>
+            </div>
+        </div>
+    </div>
+
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-6 col-sm-6 col-lg-6">
+                    <a href="index.html"><img src="img/logo.png" alt="Logo"></a>
+                </div>
+                <div class="col-xs-12 col-md-6 col-sm-6 col-lg-6">
+                    <div class="logincontainer">
+                        <!-- LOGIN CARD -->
+                        <div class="card"></div>
+                        <div class="card">
+                            <h1 class="title">Login</h1>
+
+                            <!-- LOGIN FORM -->
+                            <form class="form-login" name="loginform" role="form" ng-submit="login()">
+
+                                <div class="input-container">
+                                    <input type="text" id="Username" name="userName" data-ng-model="loginData.userName" ng-pattern="/^[a-zA-Z0-9_.-]*$/" ng-required="true" />
+                                    <label for="Username">Username</label>
+                                    <div class="bar"></div>
+                                    <div ng-messages="loginform.userName.$error" ng-if="loginform.$submitted || loginform.userName.$touched" style="color:#A60707">
+                                        <div ng-message="required">This is required</div>
+                                        <div ng-message-exp="['pattern']">
+                                            Username must be in alphabets only
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="input-container" ng-cloak>
+                                    <input type="password" id="Password" minlength="8" name="password" data-ng-model="loginData.password" ng-pattern="/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[$@$!%*?&])[A-Za-z\d$@$!%*?&]{8,}/" required />
+                                    <label for="Password">Password</label>
+                                    <div class="bar"></div>
+                                    <div ng-messages="loginform.password.$error" ng-if="loginform.$submitted || loginform.password.$touched" multiple md-auto-hide="false" style="color: #A60707">
+                                        <div ng-message="required">
+                                            This field is required
+                                        </div>
+                                        <div ng-message="pattern">
+                                            Invalid Password
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="button-container">
+                                    <button type="submit" ng-disabled="loginform.$invalid"><span>Go</span></button>
+                                </div>
+                            </form>
+
+                        </div>
+
+                        <!-- REGISTER CARD -->
+                        <div class="card alt">
+                            <div class="toggle"></div>
+                            <h1 class="title">
+                                Register
+                                <div class="close"></div>
+                            </h1>
+                            <form name="registerform" role="form" ng-submit="signUp()">
+                                <!-- Role -->
+                                <div class="input-container" style="margin-bottom:12px;">
+                                    <md-radio-group ng-model="registration.UserRole" style="color:white; font-size:1.2em;" ng-required="true">
+                                        <md-radio-button style="display: -webkit-inline-box;" value="Customer">Customer</md-radio-button>
+                                        <md-radio-button style="display: -webkit-inline-box; margin-left: 10px;" value="Professional"> Professional </md-radio-button>
+                                    </md-radio-group><div ng-messages="registerform.UserRole.$error" ng-if="registerform.$submitted || registerform.UserRole.$touched">
+                                        <div ng-message="required">This is required</div>
+                                    </div>
+                                </div>
+
+                                <!-- Username -->
+                                <div class="input-container">
+                                    <input type="text" id="Username" name="userName" validate-username-remotely ng-model="registration.userName" ng-pattern="/^[a-zA-Z0-9_.-]*$/" ng-required="true" />
+                                    <label for="Username">Username</label>
+                                    <div class="bar"></div>
+                                    <div ng-messages="registerform.userName.$error" ng-if="registerform.$submitted || registerform.userName.$touched">
+                                        <div ng-message="required">This is required</div>
+                                        <div ng-message="pattern"> Username must be in alphabets only</div>
+                                    </div>
+                                    <div class="error-box">
+                                        <span ng-show="registerform.userName.$validUsername">
+                                            Username already exists
+                                        </span>
+                                    </div>
+                                </div>
+
+                                <!-- Password -->
+                                <div class="input-container">
+                                    <input type="password" name="password" id="Password" minlength="8" ng-pattern="/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[$@$!%*?&])[A-Za-z\d$@$!%*?&]{8,}/" required data-ng-model="registration.password" />
+                                    <label for="Password">Password</label>
+                                    <div class="bar"></div>
+                                    <div ng-messages="registerform.password.$error" ng-if="registerform.$submitted || registerform.password.$touched" multiple md-auto-hide="false">
+                                        <div ng-message="required">
+                                            This field is required
+                                        </div>
+                                        <div ng-message-exp="['minlength','pattern']">
+                                            Invalid Password
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Confirm Password -->
+                                <div class="input-container">
+                                    <input type="password" id="confirmPassword" data-ng-model="registration.confirmPassword" name="confirmPassword" required data-password-verify="registration.password" />
+                                    <label for="Repeat Password">Repeat Password</label>
+                                    <div class="bar"></div>
+                                    <div ng-messages="registerform.confirmPassword.$error" ng-if="registerform.$submitted || registerform.confirmPassword.$touched">
+                                        <div ng-message="required">This is required</div>
+                                    </div>
+                                    <div ng-show="registerform.confirmPassword.$error.passwordVerify">
+                                        Password do not match
+                                    </div>
+                                </div>
+
+                                <div class="button-container">
+                                    <button class="btn btn-lg btn-info btn-block" type="submit" ng-disabled="registerform.$invalid"><span>SignUp</span></button>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <div class="mouse-icon hidden-xs">
+        <div class="scroll"></div>
+    </div>
+
+    <section id="be-the-first" class="pad-xl">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
+                    <h2>Booking a Professional</h2>
+                    <p class="lead">made fast and easy</p>
+                </div>
+            </div>
+
+            <div class="iphone wow fadeInUp" data-wow-delay="1s">
+                <img src="">
+            </div>
+        </div>
+    </section>
+
+    <section id="main-info" class="pad-xl">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 wow fadeIn" data-wow-delay="0.4s">
+                    <hr class="line purple">
+                    <h3>App Feature One Here</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>
+                </div>
+                <div class="col-sm-4 wow fadeIn" data-wow-delay="0.8s">
+                    <hr class="line blue">
+                    <h3>App Feature One Here</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>
+                </div>
+                <div class="col-sm-4 wow fadeIn" data-wow-delay="1.2s">
+                    <hr class="line yellow">
+                    <h3>App Feature One Here</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-8 margin-20">
+                    <ul class="list-inline social">
+                        <li>Connect with us on</li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+
+                <div class="col-sm-4 text-right">
+                    <p>
+                        <small>
+                            Copyright &copy; 2016. All rights reserved. <br>
+                        </small>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.toggle').on('click', function () {
+                $('.container').stop().addClass('active');
+            });
+
+            $('.close').on('click', function () {
+                $('.container').stop().removeClass('active');
+                $('#Username').val("");
+                $('#Password').val("");
+                $('#confirmPassword').val("");
+            });
+
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,91 @@
+﻿<md-dialog aria-label="Invoice" ng-controller="">
+    <form>
+        <md-toolbar>
+            <div class="md-toolbar-tools">
+                <h2>Invoice</h2>
+                <span flex></span>
+                <md-button class="md-icon-button" ng-click="cancel()">
+                    <md-icon md-svg-src="img/icons/ic_close_24px.svg" aria-label="Close dialog"></md-icon>
+                </md-button>
+            </div>
+        </md-toolbar>
+        <md-dialog-content style="max-width:800px;max-height:810px; ">
+            <md-tabs md-dynamic-height md-border-bottom>
+                <md-tab label="Company Information">
+                    <md-content class="md-padding">
+                        <div layout-gt-sm="row">
+                            <md-content flex-gt-sm="">
+                                <h3 style="font-size:large; color:blue">Company Info</h3>
+                                <md-content>
+                                    <label>Company name:xyz</label>
+                                </md-content>
+                                <md-content>
+                                    <label>Address:India Gate</label>
+                                </md-content>
+                                <md-content>
+                                    <label>Phone No.:978600544</label>
+                                </md-content>
+                            </md-content>
+                            <md-content flex-gt-sm="">
+                                <h3 style="font-size: large; color: blue">Bill To</h3>
+                                <md-content>
+                                    <label>Customer name:abc</label>
+                                </md-content>
+                                <md-content>
+                                    <label>Address:India Gate</label>
+                                </md-content>
+                                <md-content>
+                                    <label>Phone No.:978600544</label>
+                                </md-content>
+                            </md-content>
+                        </div>
+                        <div layout-gt-sm="row">
+                            <md-content class="md-block" flex-gt-sm="">
+                                <label style="font-size:medium">Invoice No.50</label>
+                            </md-content>
+                            <md-content class="md-block" flex-gt-sm="">
+                                <label style="font-size:medium">Invoice Date:9/12/2016</label>
+                            </md-content>
+                            <md-content class="md-block" flex-gt-sm="">
+                                <label style="font-size:medium">Appt Date:9/12/2016 10:00 AM</label>
+                            </md-content>
+                        </div>
+
+                    </md-content>
+                </md-tab>
+                <md-tab label="Payment Status">
+                    <md-content class="md-padding">
+                        <!--<h1 class="md-display-2">Tab Two</h1>-->
+                        <div layout-gt-sm="row">
+                            <md-input-container flex-gt-sm="">
+                                <label>Total Hours:</label>
+                                <input ng-model="" />
+                            </md-input-container>
+                            <md-input-container flex-gt-sm="">
+                                <label>Rate/Hour:</label>
+                                <input ng-model="" />
+                            </md-input-container>
+                            <md-input-container>
+                                <label>Tax Rate:</label>
+                                <input ng-model="" />
+                            </md-input-container>
+                        </div>
+                        <p>Listing</p>
+                    </md-content>
+                    </md-button>-->
+                </md-tab>
+
+            </md-tabs>
+        </md-dialog-content>
+
+        <md-dialog-actions layout="row">
+            <md-button md-autofocus>
+                Update
+            </md-button>
+            <span flex></span>
+            <md-button ng-click="answer('not useful')">
+                Send
+            </md-button>
+        </md-dialog-actions>
+    </form>
+</md-dialog>

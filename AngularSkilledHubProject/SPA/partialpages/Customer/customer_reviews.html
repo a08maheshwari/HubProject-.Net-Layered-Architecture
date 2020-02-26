@@ -1,0 +1,38 @@
+﻿<md-content class="md-padding" layout-xs="column" layout="row" ng-controller="reviewController">
+    <div flex-xs="" flex-gt-xs="50" layout="column" ng-repeat="review in reviewsdetail">
+        <md-card md-theme="{{ showDarkTheme ? 'dark-grey' : 'default' }}" md-theme-watch>
+            <md-card-title>
+                <md-card-title-text>
+                    <span class="md-headline">Professional Information</span>
+                    <span class="md-subhead"><label>Name:</label>{{review.Professional.ProfessionalName}}</span>
+                    <span class="md-subhead"><label>Work Experience:</label>{{review.Professional.ProfessionalWrkExp}}YRs</span>
+                    <span class="md-subhead"><label>Appointment Date:</label>{{review.AppointmentDate}}</span>
+                    <span class="md-subhead"><label>Starting Time:</label>{{review.StartingTime}}</span>
+                    <span class="md-subhead"><label>Ending Time:</label>{{review.EndingTime}}</span>
+                    <!--<span class="md-subhead">{{}}</span>-->
+                </md-card-title-text>
+                <md-card-title-media>
+                    <div class="md-media-lg card-media">
+                        <img ng-src="{{review.Professional.ProfessionalImage}}" class="md-card-image" alt="professional_image">
+                    </div>
+                </md-card-title-media>
+            </md-card-title>
+            <md-card-content>
+                <p style="word-wrap: break-word;">
+                    <label>Rating</label>
+                    <jk-rating-stars rating="firstRate" ng-click="rev.firstRate=firstRate"></jk-rating-stars>
+                    <div style="width: 100px">{{firstRate}} Stars</div>
+                </p>
+            </md-card-content>
+            <md-card-actions layout="row" layout-align="end center">
+           <md-button ng-click="ProvideRating(review.ProfessionalFkId);">submit</md-button>
+                <!--<md-button>Action 2</md-button>-->
+            </md-card-actions>
+        </md-card>
+
+    </div>
+</md-content>
+
+<div ng-repeat="task in tasks">
+    <button ng-click="removeTask(task.id);">remove</button>
+</div>

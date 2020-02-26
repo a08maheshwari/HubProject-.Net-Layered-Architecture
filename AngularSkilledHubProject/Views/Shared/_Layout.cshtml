@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html ng-app="App">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div>
+        @RenderBody()
+        <hr />
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+
+    @Scripts.Render("~/bundles/bootstrap")
+
+    @Scripts.Render("~/bundles/myAngular")
+
+    @Scripts.Render("~/bundles/Customer")
+
+    @Scripts.Render("~/bundles/Professional")
+
+    @Scripts.Render("~/bundles/Services")
+
+    @Scripts.Render("~/bundles/Directives")
+
+    @Scripts.Render("~/bundles/templatejs")
+
+    @Scripts.Render("~/bundles/angularMaterial")
+
+    @Scripts.Render("~/bundles/landingpageJs")
+
+    @Scripts.Render("~/bundles/calendar")
+
+    @Scripts.Render("~/bundles/googleapi")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,325 @@
+﻿<style type="text/css">
+    .dtp-header {
+        height: 0;
+    }
+</style>
+
+<div class="content-frame">
+
+    <div class="content-frame-top">
+        <div class="page-title">
+            <h2 style="color:black;"><span class="fa fa-clock-o"></span> Business Hours</h2>
+        </div>
+    </div>
+
+
+    <div class="container">
+
+        <form name="businessHoursForm">
+            <!-- Monday -->
+            <div class=" row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Monday</label>
+                </div>
+                <div ng-hide="businesshour.MonClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input required type="time" name="monday_start" id="MonStartTime" class="form-control date" ng-model="businesshour.MonStartTime" min="09:00" max="19:00" ng-change="MondayValidate()">
+                            <div ng-messages="businessHoursForm.monday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+
+                            </div>
+                        </md-input-container>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="monday_end" id="MonEndTime" class="form-control date" ng-model="businesshour.MonEndTime" min="09:00" max="19:00" ng-change="MondayValidate()">
+
+                            <div ng-messages="businessHoursForm.monday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br /><br />
+                    <md-checkbox ng-model="businesshour.MonClosed" ng-click="Monday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--Tuesday-->
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Tuesday</label>
+                </div>
+                <div ng-hide="businesshour.TueClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input required type="time" name="tuesday_start" class="form-control date" ng-model="businesshour.TueStartTime" min="09:00" max="19:00" ng-change="TueValidate()">
+                            <div ng-messages="businessHoursForm.tuesday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="tuesday_end" class="form-control date" ng-model="businesshour.TueEndTime" min="09:00" max="19:00" ng-change="TueValidate()">
+                            <div ng-messages="businessHoursForm.tuesday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br /><br />
+                    <md-checkbox ng-model="businesshour.TueClosed" ng-click="Tuesday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--wednesday-->
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Wednesday</label>
+                </div>
+                <div ng-hide="businesshour.WedClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input required type="time" name="wednusday_start" class="form-control date" ng-model="businesshour.WedStartTime" min="09:00" max="19:00" ng-change="WedValidate()">
+                            <div ng-messages="businessHoursForm.wednusday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="wednusday_end" class="form-control date" ng-model="businesshour.WedEndTime" min="09:00" max="19:00" ng-change="WedValidate()">
+                            <div ng-messages="businessHoursForm.wednusday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br /><br />
+                    <md-checkbox ng-model="businesshour.WedClosed" ng-click="Wednusday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--Thursday-->
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Thursday</label>
+                </div>
+                <div ng-hide="businesshour.ThuClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input required type="time" name="thursday_start" class="form-control date" ng-model="businesshour.ThuStartTime" min="09:00" max="19:00" ng-change="ThuValidate()">
+                            <div ng-messages="businessHoursForm.thursday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="thursday_end" class="form-control date" ng-model="businesshour.ThuEndTime" min="09:00" max="19:00" ng-change="ThuValidate()">
+                            <div ng-messages="businessHoursForm.thursday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br />
+                    <md-checkbox ng-model="businesshour.ThuClosed" ng-click="Thursday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--Friday-->
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Friday</label>
+                </div>
+                <div ng-hide="businesshour.FriClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input type="time" name="friday_start" class="form-control date" ng-model="businesshour.FriStartTime" min="09:00" max="19:00" ng-change="FriValidate()">
+                            <div ng-messages="businessHoursForm.friday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="friday_end" class="form-control date" ng-model="businesshour.FriEndTime" min="09:00" max="19:00" ng-change="FriValidate()">
+                            <div ng-messages="businessHoursForm.friday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br /><br />
+                    <md-checkbox ng-model="businesshour.FriClosed" ng-click="Friday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--saturday-->
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Saturday</label>
+                </div>
+                <div ng-hide="businesshour.SatClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input required type="time" name="saturday_start" class="form-control date" ng-model="businesshour.SatStartTime" min="09:00" max="19:00" ng-change="SatValidate()">
+                            <div ng-messages="businessHoursForm.saturday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="saturday_end" class="form-control date" ng-model="businesshour.SatEndTime" min="09:00" max="19:00" ng-change="SatValidate()">
+                            <div ng-messages="businessHoursForm.saturday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br /><br />
+                    <md-checkbox ng-model="businesshour.SatClosed" ng-click="Saturday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--sunday-->
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2">
+                    <br />
+                    <label>Sunday</label>
+                </div>
+                <div ng-hide="businesshour.SunClosed">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>Start Time:</b></label>
+                            <input required type="time" name="sunday_start" class="form-control date" ng-model="businesshour.SunStartTime" min="09:00" max="19:00" ng-change="SunValidate()">
+                            <div ng-messages="businessHoursForm.sunday_start.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+
+                            </div>
+                        </md-input-container>
+                    </div>
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <md-input-container>
+                            <label><b>End Time:</b></label>
+                            <input required type="time" name="sunday_end" class="form-control date" ng-model="businesshour.SunEndTime" min="09:00" max="19:00" ng-change="SunValidate()">
+                            <div ng-messages="businessHoursForm.sunday_end.$error">
+                                <div ng-message="required">This field is required</div>
+                                <div ng-message="min">Pick a time between 9am and 7pm</div>
+                                <div ng-message="max">Pick a time between 9am and 7pm</div>
+                                <div ng-message="ng-change">{{errMessage}}</div>
+                                <div>{{errMessage}}</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <br /><br />
+                    <md-checkbox ng-model="businesshour.SunClosed" ng-click="Sunday()">
+                        <b>Closed</b>
+                    </md-checkbox>
+                </div>
+            </div>
+
+            <!--button-->
+            <div class="row">
+                <div class="col-md-offset-2 col-sm-offset-2 col-md-10 col-sm-10 col-xs-10">
+                    <md-button class="md-raised md-primary" style=" color: #000000; background-color: #666666; border-color: #666666;" ng-hide="isBHourCreated" ng-click="createBusinessHours(businesshour)">CREATE</md-button>
+                    <md-button class="md-raised md-primary" style=" color: #000000; background-color: #666666; border-color: #666666;" ng-show="isBHourCreated" ng-click="updateBusinessHours(businesshour)">Update</md-button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('.date').bootstrapMaterialDatePicker({
+            date: false,
+            shortTime: true,
+            clearButton: true,
+            format: "HH:mm"
+        });
+
+    });
+</script>
